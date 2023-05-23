@@ -6,12 +6,6 @@ semantic_name2id = {}
 for i, names in enumerate(semantic_names):
     semantic_name2id[names] = i
 
-
-
-#data=torch.load('/home/lzz/sdc1/pg/s3dis/train_weakly2/Area_1_office_3_inst_nostuff.pth')
-#print (data[0].shape,data[1].shape,data[2].shape,data[4].shape,data[3],np.unique(data[4]))
-#exit()
-
 reg=str(0.01)
 
 paths=glob.glob('features'+reg+'/Area_*/*.h5')

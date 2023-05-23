@@ -1,7 +1,5 @@
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-# import sys
-# sys.path.append('/ssd/ljh/3d_sem/ActiveST/test_code')
 import torch
 import time
 import numpy as np
