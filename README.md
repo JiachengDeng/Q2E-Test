@@ -54,3 +54,5 @@ Before inference, we must modify the path of **data_root** in val_scannet.py and
 python val_scannet.py
 python val_s3dis.py
 ```
+### Model weights
+[Model weights for ScanNet and S3DIS](https://mega.nz/folder/RC9FCayQ#tFGcAPzULFBJs6goycGDnw)
