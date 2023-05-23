@@ -1,0 +1,16 @@
+# ninja log v5
+8	19004	1658725915564037582	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops.o	e22777fa00e4cb6a
+13	24270	1658725920824014396	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops_api.o	16f449c5cbe353fa
+0	25408	1658725921980009301	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/cuda.o	4162a5c432fa709d
+11	20782	1658726402613889589	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops.o	bc634f97d8214a70
+12	24512	1658726406349873105	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops_api.o	7f9536f0367188af
+11	27575	1658726409425859533	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/cuda.o	a7c4c169ec66222d
+12	20233	1658726431837760647	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops.o	3608f20963ed50d8
+12	24508	1658726436097741851	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops_api.o	9a211a1770e91acc
+11	27798	1658726439409727238	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/cuda.o	8bd3338a25293698
+11	19847	1658726570193173905	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops.o	e22777fa00e4cb6a
+11	24560	1658726574937155113	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops_api.o	16f449c5cbe353fa
+11	26621	1658726577013146885	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/cuda.o	4162a5c432fa709d
+11	20448	1658726599365058089	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops.o	8eb0dbd8ad54b4fb
+11	25440	1658726604361038192	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/dknet_ops_api.o	b1843f93d280e635
+11	27650	1658726606589029312	/ssd/ljh/3d_ins/DKNet/lib/dknet_ops/build/temp.linux-x86_64-3.7/dknet_ops/src/cuda.o	ce6e5f4519a5fa81
