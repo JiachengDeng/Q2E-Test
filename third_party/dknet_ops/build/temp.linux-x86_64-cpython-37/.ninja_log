@@ -1,7 +1,0 @@
-# ninja log v5
-0	13800	1678760357112935033	/ssd/ljh/3d_ins/Mask3D/third_party/dknet_ops/build/temp.linux-x86_64-cpython-37/dknet_ops/src/dknet_ops.o	6a49319f11ecf82b
-1	17432	1678760360740897711	/ssd/ljh/3d_ins/Mask3D/third_party/dknet_ops/build/temp.linux-x86_64-cpython-37/dknet_ops/src/dknet_ops_api.o	e9be80c9d6c58677
-0	20313	1678760363632868072	/ssd/ljh/3d_ins/Mask3D/third_party/dknet_ops/build/temp.linux-x86_64-cpython-37/dknet_ops/src/cuda.o	547e33be2bf2fde
-12	12624	1678760376996732367	/ssd/ljh/3d_ins/Mask3D/third_party/dknet_ops/build/temp.linux-x86_64-cpython-37/dknet_ops/src/dknet_ops.o	bbf890c340c5234
-12	16147	1678760380520696924	/ssd/ljh/3d_ins/Mask3D/third_party/dknet_ops/build/temp.linux-x86_64-cpython-37/dknet_ops/src/dknet_ops_api.o	83863e6821c0642d
-11	17787	1678760382176680317	/ssd/ljh/3d_ins/Mask3D/third_party/dknet_ops/build/temp.linux-x86_64-cpython-37/dknet_ops/src/cuda.o	7de383e97c8cb424

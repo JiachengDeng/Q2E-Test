@@ -128,7 +128,7 @@ if __name__ == '__main__':
     phase = 'val'
     #DEVICE = torch.device('cuda')
 
-    data_root = '/data1/dataset/ljh_weight/s3dis/weakly/gt_val'
+    data_root = ''
     segment_root = data_root
     home_path1 = os.path.dirname(__file__)
     model_path1 = home_path1+'/pth/s3dis.pth'
